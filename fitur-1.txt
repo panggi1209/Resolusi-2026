@@ -1,3 +1,4 @@
 Fitur 1:
 -mebuat tampilan form login  and registrasi
-
+-menambahkan dengan membuat fungsionalitas
+-menambahkan icon setiap input form
